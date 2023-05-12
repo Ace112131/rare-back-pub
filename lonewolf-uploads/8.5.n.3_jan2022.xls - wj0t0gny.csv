@@ -1,0 +1,81 @@
+dummybreak,agentnum,agent,office,trade,street,address,date,status,proptype,settlement,empl_id,fee_desc,gross,fees,net,dealcomm,ends,volume,expenses
+,122,"Ali, Hoor",,000113-A,30,"Baseball Pl 525, Toronto",1/15/2022,Closed,,1/25/2022,25,,937.5,93.75,843.75,1250,0,0,0
+,111,"Bregman, Justin",,000060-A,23 1/2,"Borden Street, Toronto",1/5/2022,Closed,,1/12/2022,14,,43750,500,43250,43750,1,1750000,0
+,111,"Bregman, Justin",,000111-A,6315,"Snowflake Lane, Mississauga",1/17/2022,Closed,,1/20/2022,14,,2910.2,100,2810.2,50928.5,0.5,727550,0
+,111,"Bregman, Justin",,000113-A,30,"Baseball Pl 525, Toronto",1/15/2022,Closed,,1/25/2022,14,,156.25,15.63,140.62,1250,0,0,0
+,111,"Bregman, Justin",,000115-A,525,"W Wilson Ave 527, Toronto",1/1/2022,Closed,,1/6/2022,14,,462.5,46.25,416.25,1850,0,0,0
+,111,"Bregman, Justin",,000137-A,190,"Acton Ave, Toronto",1/7/2022,Closed,,1/20/2022,14,,43125,500,42625,43125,1,1725000,0
+,111,"Bregman, Justin",,000141-A,740,"Avenue Road Main, Toronto",1/1/2022,Closed,,1/20/2022,14,,312.5,31.25,281.25,1250,0,0,0
+,111,"Bregman, Justin",,000142-A,223,"W St Clair Ave 1004, Toronto",1/1/2022,Closed,,1/25/2022,14,,750,75,675,1500,0,0,0
+,111,"Bregman, Justin",,000160-A,31,"Tippett Rd 433, Toronto",1/1/2022,Closed,,1/20/2022,14,,525,52.5,472.5,1050,0,0,0
+,111,"Bregman, Justin",,000163-A,2177,"Burnhamthorpe Rd W 1212, Mississauga",1/24/2022,Closed,,2/1/2022,14,,4125,412.5,3712.5,13750,0,0,0
+,111,"Bregman, Justin",,000168-A,20,"Tubman Ave 1611, Toronto",1/1/2022,Closed,,1/18/2022,14,,255,25.5,229.5,850,0,0,0
+,111,"Bregman, Justin",,000183-A,133,"Hazelton Ave 601, Toronto",1/15/2022,Closed,,1/27/2022,14,,1625,162.5,1462.5,3250,0,0,0
+,111,"Bregman, Justin",,000184-A,142,William Duncan Rd TH20,1/15/2022,Closed,,1/27/2022,14,,650,65,585,1300,0,0,0
+,111,"Bregman, Justin",,000191-A,560,"King St 521, Toronto",1/22/2022,Closed,,2/3/2022,14,,292.5,29.25,263.25,975,0,0,0
+,111,"Bregman, Justin",,000195-A,41,"Holmwood St, Richmond Hill",1/26/2022,Closed,,2/8/2022,14,,36625,500,36125,36625,1,1465000,0
+,111,"Bregman, Justin",,000213-A,32,"Forest Manor Rd 1104, Toronto",1/29/2022,Closed,,2/8/2022,14,,285,28.5,256.5,950,0,0,0
+,123,"Cheatley, Daniel",,000202-A,744,"Coxwell Ave, Toronto",1/26/2022,Closed,,2/2/2022,26,,1875,281.25,1593.75,3750,0,0,0
+,113,"Clemmens, Caitlin",,000167-A,55,"Bremner Blvd 3506, Toronto",1/15/2022,Closed,,1/25/2022,16,,645,64.5,580.5,645,0,0,0
+,133,"Cvetkovski, Jennifer",,000081-A, 48,"Hammill Hts, East Gwilliumbury",1/12/2022,Closed,,1/25/2022,37,,10500,1575,8925,21000,1,840000,0
+,133,"Cvetkovski, Jennifer",,000161-A,1600,"Charles St 405, Whitby",1/26/2022,Closed,,2/1/2022,37,,6687.5,1003.13,5684.37,26750,0.5,267500,0
+,118,"Edieya, Amen",,000168-A,20,"Tubman Ave 1611, Toronto",1/1/2022,Closed,,1/18/2022,21,,595,59.5,535.5,850,0,0,0
+,118,"Edieya, Amen",,000213-A,32,"Forest Manor Rd 1104, Toronto",1/29/2022,Closed,,2/8/2022,21,,665,66.5,598.5,950,0,0,0
+,124,"Hutchinson, David",,000117-A,115,"Blue Jays Way 315, Toronto",1/6/2022,Closed,,2/8/2022,27,,18125,2718.75,15406.25,18125,1,725000,0
+,124,"Hutchinson, David",,000128-A,231,"Fort York Blvd 2002, Toronto",1/17/2022,Closed,,1/25/2022,27,,17497.5,2624.63,14872.87,17497.5,1,699900,0
+,124,"Hutchinson, David",,000129-A,65,"East Liberty St 1717, Toronto",1/24/2022,Closed,,2/1/2022,27,,20375,3056.25,17318.75,20375,1,815000,0
+,124,"Hutchinson, David",,000147-A,169,"Fort York Blvd 623, Toronto",1/1/2022,Closed,,1/20/2022,27,,112.5,16.88,95.62,1125,0,0,0
+,124,"Hutchinson, David",,000151-A,1169,"W Queen St 602, Toronto",1/1/2022,Closed,,1/6/2022,27,,1150,172.5,977.5,2300,0,0,0
+,124,"Hutchinson, David",,000156-A,150,"East Liberty St 1406, Toronto",1/1/2022,Closed,,1/6/2022,27,,1400,210,1190,1400,0,0,0
+,124,"Hutchinson, David",,000157-A,87,"Peter St 2808, Toronto",1/1/2022,Closed,,1/18/2022,27,,950,142.5,807.5,950,0,0,0
+,124,"Hutchinson, David",,000158-A,19,"Bathurst St 2105, Toronto",1/1/2022,Closed,,1/12/2022,27,,970,145.5,824.5,970,1,1940,0
+,124,"Hutchinson, David",,000159-A,100,"Harbour St 1902, Toronto",1/1/2022,Closed,,1/20/2022,27,,1350,202.5,1147.5,1350,0,0,0
+,124,"Hutchinson, David",,000165-A,209,"Fort York Blvd 1559, Toronto",1/1/2022,Closed,,1/20/2022,27,,1400,210,1190,1400,0,0,0
+,124,"Hutchinson, David",,000166-A,230,"E King St 505, Toronto",1/1/2022,Closed,,1/12/2022,27,,925,138.75,786.25,925,0,0,0
+,124,"Hutchinson, David",,000186-A,608,"W Richmond St 1010, Toronto",1/8/2022,Closed,,1/25/2022,27,,1000,150,850,1000,0,0,0
+,124,"Hutchinson, David",,000188-A,2394,"Yeovil Rd Upper, Mississauga",1/1/2022,Closed,,1/18/2022,27,,105,15.75,89.25,1050,0,0,0
+,124,"Hutchinson, David",,000190-A,159,"E Wellesley St 2311, Toronto",1/15/2022,Closed,,1/27/2022,27,,975,146.25,828.75,975,0,0,0
+,124,"Hutchinson, David",,000199-A,88,"Cumberland St 1601, Toronto",1/12/2022,Closed,,1/25/2022,27,,160,24,136,1600,0,0,0
+,120,"Jochim, Marissa",,000163-A,2177,"Burnhamthorpe Rd W 1212, Mississauga",1/24/2022,Closed,,2/1/2022,23,,9625,962.5,8662.5,13750,1,550000,0
+,112,"Karp, Stephanie",,000170-A,48,"W St Clair Ave 402, Toronto",1/1/2022,Closed,,1/12/2022,15,,1300,130,1170,1300,0,0,0
+,116,"Katan, Gilad",,000091-A,31,"Phipps St R301, Toronto",1/1/2022,Closed,,2/3/2022,19,,1297.5,194.63,1102.87,2595,0,0,0
+,116,"Katan, Gilad",,000116-A,89,"Esther Cres, Thornhill",1/31/2022,Closed,,2/2/2022,19,,27840,4176,23664,27840,1,1392000,0
+,116,"Katan, Gilad",,000149-A,31,"Phipps St R610, Toronto",1/1/2022,Closed,,2/8/2022,19,,1125,168.75,956.25,2250,0,0,0
+,116,"Katan, Gilad",,000154-A,31,"Phipps St R507, Toronto",1/1/2022,Closed,,2/8/2022,19,,947.5,142.13,805.37,1895,0,0,0
+,115,"Mansour, Jonathan",,000144-A,410,"Queens Quay 506, Toronto",1/13/2022,Closed,,1/25/2022,18,,9052.5,1357.88,7694.62,15087.5,0.5,301750,0
+,109,"Mansour, Meray",,000062-A,9A,"Chanuncey Avenue, Etobicoke",1/25/2022,Closed,,2/1/2022,12,,23451.32,2345.13,21106.19,93805.3,0,0,0
+,109,"Mansour, Meray",,000086-A,11,"Bodwin Ave, Toronto",1/28/2022,Closed,,2/3/2022,12,,17875,1787.5,16087.5,71500,0.5,715000,0
+,109,"Mansour, Meray",,000144-A,410,"Queens Quay 506, Toronto",1/13/2022,Closed,,1/25/2022,12,,3017.5,452.63,2564.87,15087.5,0,0,0
+,130,"Marsman, Toni",,000147-A,169,"Fort York Blvd 623, Toronto",1/1/2022,Closed,,1/20/2022,33,,1012.5,151.88,860.62,1125,0,0,0
+,130,"Marsman, Toni",,000199-A,88,"Cumberland St 1601, Toronto",1/12/2022,Closed,,1/25/2022,33,,1440,216,1224,1600,0,0,0
+,110,"Mayes, Naomi",,000115-A,525,"W Wilson Ave 527, Toronto",1/1/2022,Closed,,1/6/2022,13,,462.5,46.25,416.25,1850,0,0,0
+,110,"Mayes, Naomi",,000141-A,740,"Avenue Road Main, Toronto",1/1/2022,Closed,,1/20/2022,13,,937.5,93.75,843.75,1250,0,0,0
+,110,"Mayes, Naomi",,000142-A,223,"W St Clair Ave 1004, Toronto",1/1/2022,Closed,,1/25/2022,13,,750,75,675,1500,0,0,0
+,110,"Mayes, Naomi",,000160-A,31,"Tippett Rd 433, Toronto",1/1/2022,Closed,,1/20/2022,13,,525,52.5,472.5,1050,0,0,0
+,110,"Mayes, Naomi",,000183-A,133,"Hazelton Ave 601, Toronto",1/15/2022,Closed,,1/27/2022,13,,1625,162.5,1462.5,3250,0,0,0
+,110,"Mayes, Naomi",,000184-A,142,William Duncan Rd TH20,1/15/2022,Closed,,1/27/2022,13,,650,65,585,1300,0,0,0
+,110,"Mayes, Naomi",,000191-A,560,"King St 521, Toronto",1/22/2022,Closed,,2/3/2022,13,,682.5,68.25,614.25,975,0,0,0
+,132,"Murphy, Kelly",,000081-A, 48,"Hammill Hts, East Gwilliumbury",1/12/2022,Closed,,1/25/2022,36,,10500,1575,8925,21000,0,0,0
+,132,"Murphy, Kelly",,000161-A,1600,"Charles St 405, Whitby",1/26/2022,Closed,,2/1/2022,36,,6687.5,1003.13,5684.37,26750,0.5,267500,0
+,108,"Paquette, Veronique",,000090-A,38,"Dan Leckie Way 705, Toronto",1/1/2022,Closed,,1/18/2022,11,,900,90,810,900,0,0,0
+,108,"Paquette, Veronique",,000145-A,38,"Grand Magazine St 1931, Toronto",1/1/2022,Closed,,1/18/2022,11,,950,95,855,950,0,0,0
+,108,"Paquette, Veronique",,000172-A,219,"E Dundas St 2201, Toronto",1/1/2022,Closed,,1/11/2022,11,,937.5,93.75,843.75,937.5,0,0,0
+,108,"Paquette, Veronique",,000196-A,629,"W King St 730, Toronto",1/17/2022,Closed,,1/25/2022,11,,950,95,855,950,0,0,0
+,135,"Parsons, Tyler",,000140-A,26,"Medland Ave, Whitby",1/1/2022,Closed,,1/18/2022,39,,950,142.5,807.5,1900,0,0,0
+,135,"Parsons, Tyler",,000152-A,8026,"Kipling Ave 509, Vaughan",1/17/2022,Closed,,2/15/2022,39,,7875,1181.25,6693.75,15750,0,0,0
+,135,"Parsons, Tyler",,000164-A,41,"Tulloch Dr W Upper, Ajax",1/1/2022,Closed,,1/6/2022,39,,1100,165,935,2200,0,0,0
+,135,"Parsons, Tyler",,000169-A,4,"Rushlands Cres, Whitby",1/15/2022,Closed,,1/25/2022,39,,800,120,680,1600,0,0,0
+,119,"Pokora, Jessica",,000111-A,6315,"Snowflake Lane, Mississauga",1/17/2022,Closed,,1/20/2022,22,,11640.8,400,11240.8,50928.5,0.5,727550,0
+,136,"Rigatti, Eric",,000140-A,26,"Medland Ave, Whitby",1/1/2022,Closed,,1/18/2022,40,,950,142.5,807.5,1900,0,0,0
+,136,"Rigatti, Eric",,000152-A,8026,"Kipling Ave 509, Vaughan",1/17/2022,Closed,,2/15/2022,40,,7875,1181.25,6693.75,15750,1,630000,0
+,136,"Rigatti, Eric",,000164-A,41,"Tulloch Dr W Upper, Ajax",1/1/2022,Closed,,1/6/2022,40,,1100,165,935,2200,0,0,0
+,136,"Rigatti, Eric",,000169-A,4,"Rushlands Cres, Whitby",1/15/2022,Closed,,1/25/2022,40,,800,120,680,1600,0,0,0
+,128,"Rizzo, Kendall",,000188-A,2394,"Yeovil Rd Upper, Mississauga",1/1/2022,Closed,,1/18/2022,31,,945,141.75,803.25,1050,0,0,0
+,107,"Starke, Brett",,000187-A,1122,"College St 2F, Toronto",1/1/2022,Closed,,1/18/2022,10,,437.5,43.75,393.75,437.5,0,0,0
+,100,"Stern, Adam",,000148-A,377,"Brooke Ave, Toronto",1/4/2022,Closed,,1/4/2022,2,,52625,52625,0,88000,0,0,0
+,126,"Vradis, Mary Jo",,000062-A,9A,"Chanuncey Avenue, Etobicoke",1/25/2022,Closed,,2/1/2022,29,,23451.33,2345.13,21106.2,93805.3,1,2120000,0
+,126,"Vradis, Mary Jo",,000077-A,36,"Humberside Ave, Toronto",1/7/2022,Closed,,1/25/2022,29,,53750,5375,48375,53750,1,2150000,0
+,126,"Vradis, Mary Jo",,000086-A,11,"Bodwin Ave, Toronto",1/28/2022,Closed,,2/3/2022,29,,17875,1787.5,16087.5,71500,0.5,715000,0
+,126,"Vradis, Mary Jo",,000144-A,410,"Queens Quay 506, Toronto",1/13/2022,Closed,,1/25/2022,29,,3017.5,452.625,2564.875,15087.5,0.5,301750,0
+,117,"Zemelman, David",,000113-A,30,"Baseball Pl 525, Toronto",1/15/2022,Closed,,1/25/2022,20,,156.25,15.63,140.62,1250,0,0,0
+,117,"Zemelman, David",,000148-A,377,"Brooke Ave, Toronto",1/4/2022,Closed,,1/4/2022,20,,35375,3537.5,31837.5,88000,1,3450000,0

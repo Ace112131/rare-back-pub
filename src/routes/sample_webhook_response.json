@@ -1,0 +1,495 @@
+{
+  "event_id": "01G3A7TH3N07CCK2W7YD45GRYN",
+  "event_type": "form_response",
+  "form_response": {
+    "form_id": "LL5asQyX",
+    "token": "01G3A7TH3N07CCK2W7YD45GRYN",
+    "landed_at": "2022-05-18T00:07:01Z",
+    "submitted_at": "2022-05-18T00:07:01Z",
+    "definition": {
+      "id": "LL5asQyX",
+      "title": "RARE Onboarding",
+      "fields": [
+        {
+          "id": "cFxeVWq37AKA",
+          "ref": "01G2AH9Q1KWTEAF6E9WHWYJSN4",
+          "type": "short_text",
+          "title": "Hello, what's your first name?",
+          "properties": {}
+        },
+        {
+          "id": "zXmNeNUIT8xY",
+          "ref": "40f6e424-fbc3-4dce-9d65-c2b90f913c62",
+          "type": "short_text",
+          "title": "Hi {{field:01G2AH9Q1KWTEAF6E9WHWYJSN4}}, what's your last name?",
+          "properties": {}
+        },
+        {
+          "id": "8W9zGTwkNolb",
+          "ref": "01G2AH9Q242CPH39HMSR6BZ60R",
+          "type": "yes_no",
+          "title": "Nice to meet you, {{field:01G2AH9Q1KWTEAF6E9WHWYJSN4}} {{field:40f6e424-fbc3-4dce-9d65-c2b90f913c62}}, do you have a RECO-registered trade name that you operate under?",
+          "properties": {}
+        },
+        {
+          "id": "ylBaDjnsL1MA",
+          "ref": "3d426072-3b79-4760-812d-ab7fb799f1fa",
+          "type": "short_text",
+          "title": "{{field:01G2AH9Q1KWTEAF6E9WHWYJSN4}}, what is the trade name that is registered under RECO? ",
+          "properties": {}
+        },
+        {
+          "id": "VlpdOca5uXVA",
+          "ref": "84354d95-40c0-4419-b8e6-f8e320ec4a96",
+          "type": "date",
+          "title": "{{field:01G2AH9Q1KWTEAF6E9WHWYJSN4}}, when is your birthday?",
+          "properties": {}
+        },
+        {
+          "id": "bHhOhyJLiwUy",
+          "ref": "3b166108-22c2-4b9e-8dd1-1a37a9b9578f",
+          "type": "phone_number",
+          "title": "{{field:01G2AH9Q1KWTEAF6E9WHWYJSN4}}, what is your phone number?",
+          "properties": {}
+        },
+        {
+          "id": "28G7Sj9Vmy39",
+          "ref": "169f824b-6916-4ebf-8bc9-7e62c17324de",
+          "type": "email",
+          "title": "{{field:01G2AH9Q1KWTEAF6E9WHWYJSN4}}, what is your email address?",
+          "properties": {}
+        },
+        {
+          "id": "WrawlU96taGL",
+          "ref": "eed15478-7f91-44ed-8165-8aa87104b92e",
+          "type": "short_text",
+          "title": "{{field:01G2AH9Q1KWTEAF6E9WHWYJSN4}}, what is your street address?",
+          "properties": {}
+        },
+        {
+          "id": "dcaRmYhXRwLM",
+          "ref": "0b0d8aba-768f-4325-8129-3fdd26a1f4e8",
+          "type": "short_text",
+          "title": "{{field:01G2AH9Q1KWTEAF6E9WHWYJSN4}}, what city do you live in?",
+          "properties": {}
+        },
+        {
+          "id": "QxchUCyXIeZU",
+          "ref": "091c4cdf-699f-400d-bd5b-9f425d49e634",
+          "type": "short_text",
+          "title": "{{field:01G2AH9Q1KWTEAF6E9WHWYJSN4}}, what is your province?",
+          "properties": {}
+        },
+        {
+          "id": "mctgK2PL2GBC",
+          "ref": "62876023-15bb-4bbb-b94a-7d822c5128f5",
+          "type": "short_text",
+          "title": "{{field:01G2AH9Q1KWTEAF6E9WHWYJSN4}}, what is your postal code?",
+          "properties": {}
+        },
+        {
+          "id": "mGNkfdLn8qzA",
+          "ref": "70171240-614f-4138-aa9d-cc23d9819dd6",
+          "type": "long_text",
+          "title": "{{field:01G2AH9Q1KWTEAF6E9WHWYJSN4}}, who is your emergency contact?",
+          "properties": {}
+        },
+        {
+          "id": "H6UJNaVtJjzx",
+          "ref": "d9e23a89-c644-4e95-886c-c38605df9f91",
+          "type": "multiple_choice",
+          "title": "{{field:01G2AH9Q1KWTEAF6E9WHWYJSN4}}, what is your current status?",
+          "properties": {},
+          "allow_other_choice": true,
+          "choices": [
+            {
+              "id": "akpEygGHOACo",
+              "label": "Broker"
+            },
+            {
+              "id": "ls1Lum1QNZYb",
+              "label": "Sales Representative"
+            }
+          ]
+        },
+        {
+          "id": "X4KHW9HdByjt",
+          "ref": "73513ec5-0258-452e-b5d1-eabe1ac8352c",
+          "type": "yes_no",
+          "title": "{{field:01G2AH9Q1KWTEAF6E9WHWYJSN4}}, do you have a PREC?",
+          "properties": {}
+        },
+        {
+          "id": "GF6OG8Oqfl3C",
+          "ref": "a04d36b9-dcad-426a-a04a-524e2acca19e",
+          "type": "short_text",
+          "title": "{{field:01G2AH9Q1KWTEAF6E9WHWYJSN4}}, what is the name of your PREC?",
+          "properties": {}
+        },
+        {
+          "id": "bfwhJCAQzLJ7",
+          "ref": "455e5e37-8297-417f-b043-235d8b8804b5",
+          "type": "date",
+          "title": "{{field:01G2AH9Q1KWTEAF6E9WHWYJSN4}}, when was your PREC incorporated?",
+          "properties": {}
+        },
+        {
+          "id": "MmirVIVE1XW4",
+          "ref": "923f215a-aa9f-40fc-8ab9-63d182a4fd0e",
+          "type": "short_text",
+          "title": "{{field:01G2AH9Q1KWTEAF6E9WHWYJSN4}}, what is your PREC HST number?",
+          "properties": {}
+        },
+        {
+          "id": "05wuqJ8mFQcx",
+          "ref": "952dbad8-7fa4-4b7d-946f-1ffbab8d0443",
+          "type": "short_text",
+          "title": "{{field:01G2AH9Q1KWTEAF6E9WHWYJSN4}}, what is your HST number?",
+          "properties": {}
+        },
+        {
+          "id": "FeWRc8WXO1zV",
+          "ref": "5a8b14ec-5d5f-43e8-8e1a-f0a4f579a5ec",
+          "type": "number",
+          "title": "{{field:01G2AH9Q1KWTEAF6E9WHWYJSN4}}, what is your SIN number?",
+          "properties": {}
+        },
+        {
+          "id": "cRVayFngMX0f",
+          "ref": "1dc99b7b-56f8-4b30-90a2-f9c4463999b5",
+          "type": "number",
+          "title": "{{field:01G2AH9Q1KWTEAF6E9WHWYJSN4}}, what is your TREB number?",
+          "properties": {}
+        },
+        {
+          "id": "GloMciXjEz8K",
+          "ref": "09a44fca-c200-4a50-98e8-c90f1bbc4eb6",
+          "type": "number",
+          "title": "{{field:01G2AH9Q1KWTEAF6E9WHWYJSN4}}, what is your RECO number?",
+          "properties": {}
+        },
+        {
+          "id": "2zdGoRg2wpUA",
+          "ref": "f45935fa-46f9-4c94-b13f-4064dc70c2f0",
+          "type": "date",
+          "title": "{{field:01G2AH9Q1KWTEAF6E9WHWYJSN4}}, when did you get your RECO license?",
+          "properties": {}
+        },
+        {
+          "id": "QEn45YqOq26m",
+          "ref": "7bfe9b97-fc19-46b7-94e8-a0b3f3a9a02d",
+          "type": "date",
+          "title": "{{field:01G2AH9Q1KWTEAF6E9WHWYJSN4}}, when does your RECO license expire?",
+          "properties": {}
+        },
+        {
+          "id": "lrxhOQzGSnwG",
+          "ref": "8e23e5fe-ba11-4352-b9ee-3c56b4b6a0e4",
+          "type": "short_text",
+          "title": "{{field:01G2AH9Q1KWTEAF6E9WHWYJSN4}}, please provide us with your credit card information to process your monthly fees. What is the name on your credit card?",
+          "properties": {}
+        },
+        {
+          "id": "RTyQZVw1CpxS",
+          "ref": "233421e1-9f88-4353-8f3d-ca2a201db6c1",
+          "type": "number",
+          "title": "{{field:01G2AH9Q1KWTEAF6E9WHWYJSN4}}, what is your credit card number?",
+          "properties": {}
+        },
+        {
+          "id": "i5cZWW2dGebN",
+          "ref": "cad517ac-5757-4d75-b1f4-e2f4cf4dd23d",
+          "type": "date",
+          "title": "{{field:01G2AH9Q1KWTEAF6E9WHWYJSN4}}, when is your credit card expiry date?",
+          "properties": {}
+        },
+        {
+          "id": "pXLIOuFmnDiX",
+          "ref": "5f2ada4a-a16f-4c1c-88b7-c93648ea528c",
+          "type": "number",
+          "title": "{{field:01G2AH9Q1KWTEAF6E9WHWYJSN4}}, what is your credit card CVV?",
+          "properties": {}
+        },
+        {
+          "id": "Jyq3pybUhcae",
+          "ref": "e97bd6fb-f616-478e-847c-31267346e7ca",
+          "type": "file_upload",
+          "title": "Please upload a blank cheque or a direct deposit form for payment processing",
+          "properties": {}
+        },
+        {
+          "id": "j5FxjcwFc6Uh",
+          "ref": "ad4f4097-4361-4639-ac0e-6eacf79d5be6",
+          "type": "date",
+          "title": "{{field:01G2AH9Q1KWTEAF6E9WHWYJSN4}}, what is your preferred start date?",
+          "properties": {}
+        }
+      ]
+    },
+    "answers": [
+      {
+        "type": "text",
+        "text": "Lorem ipsum dolor",
+        "field": {
+          "id": "cFxeVWq37AKA",
+          "type": "short_text",
+          "ref": "01G2AH9Q1KWTEAF6E9WHWYJSN4"
+        }
+      },
+      {
+        "type": "text",
+        "text": "Lorem ipsum dolor",
+        "field": {
+          "id": "zXmNeNUIT8xY",
+          "type": "short_text",
+          "ref": "40f6e424-fbc3-4dce-9d65-c2b90f913c62"
+        }
+      },
+      {
+        "type": "boolean",
+        "boolean": true,
+        "field": {
+          "id": "8W9zGTwkNolb",
+          "type": "yes_no",
+          "ref": "01G2AH9Q242CPH39HMSR6BZ60R"
+        }
+      },
+      {
+        "type": "text",
+        "text": "Lorem ipsum dolor",
+        "field": {
+          "id": "ylBaDjnsL1MA",
+          "type": "short_text",
+          "ref": "3d426072-3b79-4760-812d-ab7fb799f1fa"
+        }
+      },
+      {
+        "type": "date",
+        "date": "2017-02-06",
+        "field": {
+          "id": "VlpdOca5uXVA",
+          "type": "date",
+          "ref": "84354d95-40c0-4419-b8e6-f8e320ec4a96"
+        }
+      },
+      {
+        "type": "phone_number",
+        "phone_number": "+34123456789",
+        "field": {
+          "id": "bHhOhyJLiwUy",
+          "type": "phone_number",
+          "ref": "3b166108-22c2-4b9e-8dd1-1a37a9b9578f"
+        }
+      },
+      {
+        "type": "email",
+        "email": "an_account@example.com",
+        "field": {
+          "id": "28G7Sj9Vmy39",
+          "type": "email",
+          "ref": "169f824b-6916-4ebf-8bc9-7e62c17324de"
+        }
+      },
+      {
+        "type": "text",
+        "text": "Lorem ipsum dolor",
+        "field": {
+          "id": "WrawlU96taGL",
+          "type": "short_text",
+          "ref": "eed15478-7f91-44ed-8165-8aa87104b92e"
+        }
+      },
+      {
+        "type": "text",
+        "text": "Lorem ipsum dolor",
+        "field": {
+          "id": "dcaRmYhXRwLM",
+          "type": "short_text",
+          "ref": "0b0d8aba-768f-4325-8129-3fdd26a1f4e8"
+        }
+      },
+      {
+        "type": "text",
+        "text": "Lorem ipsum dolor",
+        "field": {
+          "id": "QxchUCyXIeZU",
+          "type": "short_text",
+          "ref": "091c4cdf-699f-400d-bd5b-9f425d49e634"
+        }
+      },
+      {
+        "type": "text",
+        "text": "Lorem ipsum dolor",
+        "field": {
+          "id": "mctgK2PL2GBC",
+          "type": "short_text",
+          "ref": "62876023-15bb-4bbb-b94a-7d822c5128f5"
+        }
+      },
+      {
+        "type": "text",
+        "text": "Lorem ipsum dolor",
+        "field": {
+          "id": "mGNkfdLn8qzA",
+          "type": "long_text",
+          "ref": "70171240-614f-4138-aa9d-cc23d9819dd6"
+        }
+      },
+      {
+        "type": "choice",
+        "choice": {
+          "label": "Barcelona"
+        },
+        "field": {
+          "id": "H6UJNaVtJjzx",
+          "type": "multiple_choice",
+          "ref": "d9e23a89-c644-4e95-886c-c38605df9f91"
+        }
+      },
+      {
+        "type": "boolean",
+        "boolean": true,
+        "field": {
+          "id": "X4KHW9HdByjt",
+          "type": "yes_no",
+          "ref": "73513ec5-0258-452e-b5d1-eabe1ac8352c"
+        }
+      },
+      {
+        "type": "text",
+        "text": "Lorem ipsum dolor",
+        "field": {
+          "id": "GF6OG8Oqfl3C",
+          "type": "short_text",
+          "ref": "a04d36b9-dcad-426a-a04a-524e2acca19e"
+        }
+      },
+      {
+        "type": "date",
+        "date": "2017-02-06",
+        "field": {
+          "id": "bfwhJCAQzLJ7",
+          "type": "date",
+          "ref": "455e5e37-8297-417f-b043-235d8b8804b5"
+        }
+      },
+      {
+        "type": "text",
+        "text": "Lorem ipsum dolor",
+        "field": {
+          "id": "MmirVIVE1XW4",
+          "type": "short_text",
+          "ref": "923f215a-aa9f-40fc-8ab9-63d182a4fd0e"
+        }
+      },
+      {
+        "type": "text",
+        "text": "Lorem ipsum dolor",
+        "field": {
+          "id": "05wuqJ8mFQcx",
+          "type": "short_text",
+          "ref": "952dbad8-7fa4-4b7d-946f-1ffbab8d0443"
+        }
+      },
+      {
+        "type": "number",
+        "number": 42,
+        "field": {
+          "id": "FeWRc8WXO1zV",
+          "type": "number",
+          "ref": "5a8b14ec-5d5f-43e8-8e1a-f0a4f579a5ec"
+        }
+      },
+      {
+        "type": "number",
+        "number": 42,
+        "field": {
+          "id": "cRVayFngMX0f",
+          "type": "number",
+          "ref": "1dc99b7b-56f8-4b30-90a2-f9c4463999b5"
+        }
+      },
+      {
+        "type": "number",
+        "number": 42,
+        "field": {
+          "id": "GloMciXjEz8K",
+          "type": "number",
+          "ref": "09a44fca-c200-4a50-98e8-c90f1bbc4eb6"
+        }
+      },
+      {
+        "type": "date",
+        "date": "2017-02-06",
+        "field": {
+          "id": "2zdGoRg2wpUA",
+          "type": "date",
+          "ref": "f45935fa-46f9-4c94-b13f-4064dc70c2f0"
+        }
+      },
+      {
+        "type": "date",
+        "date": "2017-02-06",
+        "field": {
+          "id": "QEn45YqOq26m",
+          "type": "date",
+          "ref": "7bfe9b97-fc19-46b7-94e8-a0b3f3a9a02d"
+        }
+      },
+      {
+        "type": "text",
+        "text": "Lorem ipsum dolor",
+        "field": {
+          "id": "lrxhOQzGSnwG",
+          "type": "short_text",
+          "ref": "8e23e5fe-ba11-4352-b9ee-3c56b4b6a0e4"
+        }
+      },
+      {
+        "type": "number",
+        "number": 42,
+        "field": {
+          "id": "RTyQZVw1CpxS",
+          "type": "number",
+          "ref": "233421e1-9f88-4353-8f3d-ca2a201db6c1"
+        }
+      },
+      {
+        "type": "date",
+        "date": "2017-02-06",
+        "field": {
+          "id": "i5cZWW2dGebN",
+          "type": "date",
+          "ref": "cad517ac-5757-4d75-b1f4-e2f4cf4dd23d"
+        }
+      },
+      {
+        "type": "number",
+        "number": 42,
+        "field": {
+          "id": "pXLIOuFmnDiX",
+          "type": "number",
+          "ref": "5f2ada4a-a16f-4c1c-88b7-c93648ea528c"
+        }
+      },
+      {
+        "type": "file_url",
+        "file_url": "https://admin.typeform.com/form/LL5asQyX/field/Jyq3pybUhcae/results/file.ext/download",
+        "field": {
+          "id": "Jyq3pybUhcae",
+          "type": "file_upload",
+          "ref": "e97bd6fb-f616-478e-847c-31267346e7ca"
+        }
+      },
+      {
+        "type": "date",
+        "date": "2017-02-06",
+        "field": {
+          "id": "j5FxjcwFc6Uh",
+          "type": "date",
+          "ref": "ad4f4097-4361-4639-ac0e-6eacf79d5be6"
+        }
+      }
+    ]
+  }
+}

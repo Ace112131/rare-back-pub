@@ -1,0 +1,72 @@
+dummybreak,agentnum,agent,office,trade,street,address,date,status,proptype,settlement,empl_id,fee_desc,gross,fees,net,dealcomm,ends,volume,expenses
+,111,"Bregman, Justin",,000120-A,763,"Bay St 508, Toronto",2/1/2022,Closed,,2/9/2022,14,,5028.75,502.88,4525.87,16762.5,0.5,372500,0
+,111,"Bregman, Justin",,000134-A,100,"Hayden St 507, Toronto",2/8/2022,Closed,,2/15/2022,14,,19500,500,19000,39000,1,780000,0
+,111,"Bregman, Justin",,000155-A,52,"Parent Ave, Toronto",2/22/2022,Closed,,3/8/2022,14,,10147.5,1014.75,9132.75,33825,0.5,676500,0
+,111,"Bregman, Justin",,000193-A,763,"Bay St 702, Toronto",2/1/2022,Closed,,2/10/2022,14,,548.75,54.88,493.87,1097.5,0,0,0
+,111,"Bregman, Justin",,000198-A,20,"Richardson St 903, Toronto",2/1/2022,Closed,,2/3/2022,14,,550,55,495,2200,0,0,0
+,111,"Bregman, Justin",,000206-A,386,"Yonge St 3511, Toronto",2/28/2022,Closed,,3/1/2022,14,,26600,1000,25600,26600,2,1520000,0
+,111,"Bregman, Justin",,000214-A,38,"Monte Kwinter Crt 612, Toronto",2/25/2022,Closed,,3/1/2022,14,,5167.5,516.75,4650.75,34450,1,689000,0
+,111,"Bregman, Justin",,000217-A,80,"John St 1407, Toronto",2/1/2022,Closed,,2/8/2022,14,,612.5,61.25,551.25,1225,0,0,0
+,111,"Bregman, Justin",,000232-A,525,"W Adelaide St 330, Toronto",2/15/2022,Closed,,3/1/2022,14,,587.25,58.73,528.52,1174.5,0,0,0
+,111,"Bregman, Justin",,000235-A,100,"Eagle Rock Way 702, Vaughan",2/15/2022,Closed,,2/22/2022,14,,265,26.5,238.5,1325,0,0,0
+,111,"Bregman, Justin",,000246-A,33,"Shore Breeze 2807, Toronto",2/22/2022,Closed,,2/23/2022,14,,250,25,225,2000,0,0,0
+,111,"Bregman, Justin",,000251-A,77,"Mutual St 1508, Toronto",2/20/2022,Closed,,3/1/2022,14,,435,43.5,391.5,1450,0,0,0
+,123,"Cheatley, Daniel",,000216-A,2799,"Kingston Rd 509, Toronto",2/22/2022,Closed,,2/24/2022,26,,12606,500,12106,28363.5,1,630300,0
+,123,"Cheatley, Daniel",,000218-A,40,"Homewood 2108, Toronto",2/25/2022,Closed,,3/1/2022,26,,8437.5,1265.63,7171.87,11250,1,450000,0
+,123,"Cheatley, Daniel",,000221-A,40,"Homewood Ave 1603, Toronto",2/25/2022,Closed,,3/4/2022,26,,10300,1545,8755,23175,1,515000,0
+,137,"Curcuruto, Anthony",,000155-A,52,"Parent Ave, Toronto",2/22/2022,Closed,,3/8/2022,41,,23677.5,2367.75,21309.75,33825,0.5,676500,0
+,137,"Curcuruto, Anthony",,000214-A,38,"Monte Kwinter Crt 612, Toronto",2/25/2022,Closed,,3/1/2022,41,,12057.5,1205.75,10851.75,34450,0,0,0
+,133,"Cvetkovski, Jennifer",,000131-A,64,"Russell Barton Lane, Uxbridge",2/16/2022,Closed,,3/1/2022,37,,11625,1743.75,9881.25,23250,0.5,465000,0
+,141,"Deligiannis, Christina",,000242-A,133,"Wynford Dr 105, Toronto",2/25/2022,Closed,,3/1/2022,45,,13000,1950,11050,29250,1,650000,0
+,143,"Galloway, Samuel",,000258-A,39,"Yorkshire Rd Bsmt, Toronto",2/18/2022,Closed,,3/1/2022,48,,1400,210,1190,1400,2,2800,0
+,124,"Hutchinson, David",,000127-A,2410,"Brookhurst Rd, Mississauga",2/7/2022,Closed,,2/17/2022,27,,24750,3712.5,21037.5,24750,1,990000,0
+,124,"Hutchinson, David",,000185-A,33,"E Charles St 3507, Toronto",2/1/2022,Closed,,2/22/2022,27,,145,21.75,123.25,1450,0,0,0
+,124,"Hutchinson, David",,000200-A,68,"Abell St 747, Toronto",2/1/2022,Closed,,2/10/2022,27,,1150,172.5,977.5,1150,0,0,0
+,124,"Hutchinson, David",,000211-A,181,"E Dundas St 4503, Toronto",2/1/2022,Closed,,2/15/2022,27,,122.5,18.38,104.12,1225,0,0,0
+,124,"Hutchinson, David",,000234-A,30,"Ordnance 706, Toronto",2/9/2022,Closed,,3/3/2022,27,,1025,153.75,871.25,1025,0,0,0
+,124,"Hutchinson, David",,000236-A,2444,"Shadow Court, Oakville",2/3/2022,Closed,,2/17/2022,27,,162.5,24.38,138.12,1625,0,0,0
+,124,"Hutchinson, David",,000237-A,135,"East Liberty St 1604, Toronto",2/15/2022,Closed,,3/4/2022,27,,97.5,14.63,82.87,975,0,0,0
+,124,"Hutchinson, David",,000238-A,512,"Bellflower Court, Milton",2/12/2022,Closed,,2/22/2022,27,,132.5,19.88,112.62,1325,0,0,0
+,124,"Hutchinson, David",,000240-A,85,"Oneida Cres 1112, Richmond Hill",2/15/2022,Closed,,3/3/2022,27,,105,15.75,89.25,1050,0,0,0
+,124,"Hutchinson, David",,000255-A,4470,"Tucana Crt 1012, Mississauga",2/15/2022,Closed,,3/1/2022,27,,132.5,19.88,112.62,1325,0,0,0
+,124,"Hutchinson, David",,000256-A,225,Sackville 1112,2/15/2022,Closed,,3/24/2022,27,,82.5,12.38,70.12,825,0,0,0
+,116,"Katan, Gilad",,000138-A,100,"Canyon Ave 302, Toronto",2/24/2022,Closed,,3/3/2022,19,,14875,2231.25,12643.75,29750,1,595000,0
+,121,"Manias, Nicholas",,000235-A,100,"Eagle Rock Way 702, Vaughan",2/15/2022,Closed,,2/22/2022,24,,1060,106,954,1325,0,0,0
+,115,"Mansour, Jonathan",,000205-A,137,"Avenue Rd, Toronto",2/28/2022,Closed,,3/8/2022,18,,5000,750,4250,154000,0,0,0
+,109,"Mansour, Meray",,000059-A,224,"W King St 4401, Toronto",2/10/2022,Closed,,3/1/2022,12,,63125,6312.5,56812.5,63125,1,2525000,0
+,109,"Mansour, Meray",,000205-A,137,"Avenue Rd, Toronto",2/28/2022,Closed,,3/8/2022,12,,28300,2830,25470,154000,0.5,1925000,0
+,109,"Mansour, Meray",,000218-A,40,"Homewood 2108, Toronto",2/25/2022,Closed,,3/1/2022,12,,1406.25,140.63,1265.62,11250,0,0,0
+,109,"Mansour, Meray",,000419-A,20,"Blue Jays Way 2301, Toronto",2/18/2022,Closed,,5/5/2022,12,,27500,500,27000,27500,0,0,0
+,130,"Marsman, Toni",,000185-A,33,"E Charles St 3507, Toronto",2/1/2022,Closed,,2/22/2022,33,,1305,195.75,1109.25,1450,0,0,0
+,130,"Marsman, Toni",,000211-A,181,"E Dundas St 4503, Toronto",2/1/2022,Closed,,2/15/2022,33,,1102.5,165.38,937.12,1225,0,0,0
+,110,"Mayes, Naomi",,000120-A,763,"Bay St 508, Toronto",2/1/2022,Closed,,2/9/2022,13,,11733.75,1173.38,10560.37,16762.5,0.5,372500,0
+,110,"Mayes, Naomi",,000193-A,763,"Bay St 702, Toronto",2/1/2022,Closed,,2/10/2022,13,,548.75,54.88,493.87,1097.5,0,0,0
+,110,"Mayes, Naomi",,000198-A,20,"Richardson St 903, Toronto",2/1/2022,Closed,,2/3/2022,13,,550,55,495,2200,0,0,0
+,110,"Mayes, Naomi",,000217-A,80,"John St 1407, Toronto",2/1/2022,Closed,,2/8/2022,13,,612.5,61.25,551.25,1225,0,0,0
+,110,"Mayes, Naomi",,000232-A,525,"W Adelaide St 330, Toronto",2/15/2022,Closed,,3/1/2022,13,,587.25,58.73,528.52,1174.5,0,0,0
+,110,"Mayes, Naomi",,000246-A,33,"Shore Breeze 2807, Toronto",2/22/2022,Closed,,2/23/2022,13,,500,50,450,2000,0,0,0
+,110,"Mayes, Naomi",,000251-A,77,"Mutual St 1508, Toronto",2/20/2022,Closed,,3/1/2022,13,,1015,101.5,913.5,1450,0,0,0
+,132,"Murphy, Kelly",,000131-A,64,"Russell Barton Lane, Uxbridge",2/16/2022,Closed,,3/1/2022,36,,11625,1743.75,9881.25,23250,0.5,465000,0
+,108,"Paquette, Veronique",,000171-A,159,"E Wellesley St 2603, Toronto",2/1/2022,Closed,,2/22/2022,11,,1025,102.5,922.5,1025,0,0,0
+,108,"Paquette, Veronique",,000201-A,111,"Bathurst St 523, Toronto",2/1/2022,Closed,,2/15/2022,11,,950,95,855,950,0,0,0
+,108,"Paquette, Veronique",,000209-A,455,"E Front St N207, Toronto",2/1/2022,Closed,,2/22/2022,11,,950,95,855,950,0,0,0
+,135,"Parsons, Tyler",,000136-A,11,"Bridgid Dr N, Whitby",2/28/2022,Closed,,3/1/2022,39,,7155,1073.25,6081.75,50085,0.5,715500,0
+,135,"Parsons, Tyler",,000208-A,60,"Patricia Dr, King City",2/15/2022,Closed,,2/17/2022,39,,975,146.25,828.75,3900,0,0,0
+,101,"Rabinovich, Ryan",,000205-A,137,"Avenue Rd, Toronto",2/28/2022,Closed,,3/8/2022,3,,7700,7700,0,154000,0,0,0
+,136,"Rigatti, Eric",,000136-A,11,"Bridgid Dr N, Whitby",2/28/2022,Closed,,3/1/2022,40,,7155,1073.25,6081.75,50085,0.5,715500,0
+,136,"Rigatti, Eric",,000208-A,60,"Patricia Dr, King City",2/15/2022,Closed,,2/17/2022,40,,975,146.25,828.75,3900,0,0,0
+,129,"Rivadeneira, Andres",,000220-A,101,"E Charles St 3401, Toronto",2/8/2022,Closed,,3/1/2022,32,,29500,4425,25075,29500,1,1180000,0
+,128,"Rizzo, Kendall",,000236-A,2444,"Shadow Court, Oakville",2/3/2022,Closed,,2/17/2022,31,,1462.5,219.38,1243.12,1625,0,0,0
+,128,"Rizzo, Kendall",,000237-A,135,"East Liberty St 1604, Toronto",2/15/2022,Closed,,3/4/2022,31,,877.5,131.63,745.87,975,0,0,0
+,128,"Rizzo, Kendall",,000238-A,512,"Bellflower Court, Milton",2/12/2022,Closed,,2/22/2022,31,,1192.5,178.88,1013.62,1325,0,0,0
+,128,"Rizzo, Kendall",,000240-A,85,"Oneida Cres 1112, Richmond Hill",2/15/2022,Closed,,3/3/2022,31,,945,141.75,803.25,1050,0,0,0
+,128,"Rizzo, Kendall",,000255-A,4470,"Tucana Crt 1012, Mississauga",2/15/2022,Closed,,3/1/2022,31,,1192.5,178.88,1013.62,1325,0,0,0
+,128,"Rizzo, Kendall",,000256-A,225,Sackville 1112,2/15/2022,Closed,,3/24/2022,31,,742.5,111.38,631.12,825,0,0,0
+,114,"Scott, Stefan",,000210-A,106,"E Queen St Main, Toronto",2/1/2022,Closed,,2/15/2022,17,,1080,162,918,5400,0,0,0
+,100,"Stern, Adam",,000205-A,137,"Avenue Rd, Toronto",2/28/2022,Closed,,3/8/2022,2,,7700,7700,0,154000,0,0,0
+,126,"Vradis, Mary Jo",,000205-A,137,"Avenue Rd, Toronto",2/28/2022,Closed,,3/8/2022,29,,28300,2830,25470,154000,0.5,1925000,0
+,126,"Vradis, Mary Jo",,000210-A,106,"E Queen St Main, Toronto",2/1/2022,Closed,,2/15/2022,29,,4320,432,3888,5400,0,0,0
+,126,"Vradis, Mary Jo",,000218-A,40,"Homewood 2108, Toronto",2/25/2022,Closed,,3/1/2022,29,,1406.25,140.63,1265.62,11250,0,0,0
+,126,"Vradis, Mary Jo",,000219-A,5795,"Yonge St 912, Toronto",2/1/2022,Closed,,2/10/2022,29,,1125,112.5,1012.5,2250,0,0,0
+,126,"Vradis, Mary Jo",,000225-A,2230,"Lakeshore Blvd 307, Toronto",2/1/2022,Closed,,2/10/2022,29,,1400,140,1260,2800,0,0,0
+,117,"Zemelman, David",,000246-A,33,"Shore Breeze 2807, Toronto",2/22/2022,Closed,,2/23/2022,20,,250,25,225,2000,0,0,0

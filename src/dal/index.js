@@ -1,0 +1,15 @@
+module.exports = {
+  users: require("./users"),
+  pictures: require("./pictures"),
+  files: require("./files"),
+  listings: require("./listings"),
+  revshare: require("./revshare"),
+  deals: require("./deals"),
+  announcements: require("./announcements"),
+  forum: require("./forum"),
+  dealConditionals: require("./dealConditionals"),
+  lawyerInformations: require("./lawyerInformations"),
+  referrals: require("./referrals"),
+  dealCommissions: require("./dealCommissions"),
+  chat: require("./chat"),
+};
